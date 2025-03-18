@@ -1,5 +1,2 @@
----
-layout: default
-title: Experience
----
+# Experience
 Here’s a summary of my work experience, education, and key skills.
