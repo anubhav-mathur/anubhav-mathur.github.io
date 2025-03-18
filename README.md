@@ -3,6 +3,7 @@
 This site showcases my **About, Experience, and Projects**.
 
 ### Quick Links
+- [Home](index.html)
 - [About](about.html)
 - [Experience](experience.html)
 - [Projects](projects.html)

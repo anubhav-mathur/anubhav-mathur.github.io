@@ -1,7 +1,2 @@
----
-layout: default
-title: Projects
----
-
 # My Projects
 Check out some of the cool projects I’ve built.
