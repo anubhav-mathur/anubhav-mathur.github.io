@@ -2,4 +2,9 @@ title: Anubhav Mathur
 # logo: /assets/img/headshot_circle.png
 #description: text below image
 # show_downloads: true
-theme: null
+theme: jekyll-theme-minima
+
+header_pages:
+  - about.md
+  - experience.md
+  - projects.md
