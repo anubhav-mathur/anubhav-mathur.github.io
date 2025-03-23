@@ -9,7 +9,7 @@ title: Anubhav Mathur
   <div class="about-content">
     <img src="/assets/img/PXL_20241219_193316216~2.jpg" alt="Anubhav Mathur">
     <h1>Anubhav Mathur</h1>
-    <p>Passionate about software engineering, data analytics, and cloud-based solutions, I specialize in building scalable and data-driven applications. I am pursuing an MS in Computer Science at Georgia Tech with a focus on data and computing systems. I bring together expertise in backend engineering, cloud infrastructure, big data, DevOps, and AI/ML to build reliable and high-performance systems.</p><br>
+    <p>I am pursuing an MS in Computer Science at Georgia Tech with a focus on data and computing systems. I am passionate about software engineering, data analytics, and cloud-based solutions. I specialize in building scalable, data-driven applications and bring expertise in backend engineering, cloud infrastructure, big data, DevOps, and AI/ML to develop reliable, high-performance systems.</p><br>
     <a href="https://drive.google.com/file/d/1PMkkQTyEc5LT5mvJfxHdsXmyQPc_V9xI/view" target="_blank" class="resume-link">View Resume</a>
   </div>
 </section>
@@ -64,6 +64,40 @@ title: Anubhav Mathur
           <li>Created Splunk & Datadog dashboards and alerts, aiding in production support, traffic monitoring, and measuring application performance, saving 20 hours of human intervention per week.</li>
         </ul>
       </div>
+    </div>
+
+  </div>
+</section>
+
+<section id="education">
+  <div class="section-content">
+    <h2>Education</h2>
+    <div class="education-item">
+      <div class="education-header">
+        <div>
+          <h3 class="institution">Georgia Institute of Technology</h3>
+          <div class="degree">Master of Science in Computer Science</div>
+        </div>
+        <span class="education-duration">August 2024 - Present</span>
+      </div>
+      <ul class="education-details">
+        <li>GPA: 4.0/4.0</li>
+        <li>Specializing in Computing Systems</li>
+        <li>Relevant Courses: Graduate Algorithms, Database Systems, Computer Networks, Machine Learning</li>
+      </ul>
+    </div>
+    <div class="education-item" style="margin-top: 2rem;">
+      <div class="education-header">
+        <div>
+          <h3 class="institution">National Institute of Technology Kurukshetra</h3>
+          <div class="degree">Bachelor of Technology in Computer Engineering</div>
+        </div>
+        <span class="education-duration">July 2016 - June 2020</span>
+      </div>
+      <ul class="education-details">
+        <li>GPA: 9.59/10.00</li>
+        <li>Relevant Courses: Software Engineering, Operating Systems, Distributed Systems, Data Structures</li>
+      </ul>
     </div>
 
   </div>
@@ -124,40 +158,6 @@ title: Anubhav Mathur
         <span class="tech-item">Long-Short Term Memory (LSTMs)</span>
         <span class="tech-item">Recurrent Neural Networks</span>
       </div>
-    </div>
-
-  </div>
-</section>
-
-<section id="education">
-  <div class="section-content">
-    <h2>Education</h2>
-    <div class="education-item">
-      <div class="education-header">
-        <div>
-          <h3 class="institution">Georgia Institute of Technology</h3>
-          <div class="degree">Master of Science in Computer Science</div>
-        </div>
-        <span class="education-duration">August 2024 - Present</span>
-      </div>
-      <ul class="education-details">
-        <li>GPA: 4.0/4.0</li>
-        <li>Specializing in Computing Systems</li>
-        <li>Relevant Courses: Graduate Algorithms, Database Systems, Computer Networks, Machine Learning</li>
-      </ul>
-    </div>
-    <div class="education-item" style="margin-top: 2rem;">
-      <div class="education-header">
-        <div>
-          <h3 class="institution">National Institute of Technology Kurukshetra</h3>
-          <div class="degree">Bachelor of Technology in Computer Engineering</div>
-        </div>
-        <span class="education-duration">July 2016 - June 2020</span>
-      </div>
-      <ul class="education-details">
-        <li>GPA: 9.59/10.00</li>
-        <li>Relevant Courses: Software Engineering, Operating Systems, Distributed Systems, Data Structures</li>
-      </ul>
     </div>
 
   </div>
