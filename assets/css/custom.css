@@ -223,11 +223,11 @@ section {
   margin-bottom: 0.5rem;
 }
 
-.duration {
+/* .duration {
   color: #888;
   font-size: 1rem;
   margin-left: 1rem;
-}
+} */
 
 .bullet-list {
   list-style: none;
@@ -350,6 +350,15 @@ section {
   transform: translateY(-5px);
 }
 
+.duration {
+  color: #d8d1ff;
+  font-size: 0.95rem;
+  background: rgba(108, 99, 255, 0.15);
+  padding: 0.3rem 0.8rem;
+  border-radius: 15px;
+  margin-left: 0;
+}
+
 .project-card::before {
   content: none;
   position: absolute;
@@ -448,6 +457,13 @@ section {
 }
 
 .education-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 1rem;
+}
+
+.position-header {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
