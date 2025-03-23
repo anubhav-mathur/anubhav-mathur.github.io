@@ -446,3 +446,10 @@ section {
 .paper-link:hover .research-paper-icon {
   filter: invert(1) brightness(1.2);
 }
+
+.education-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 1rem;
+}

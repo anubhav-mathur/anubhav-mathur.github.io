@@ -125,9 +125,13 @@ title: Anubhav Mathur
   <div class="section-content">
     <h2>Education</h2>
     <div class="education-item">
-      <h3 class="institution">Georgia Institute of Technology</h3>
-      <p class="degree">Master of Science in Computer Science</p>
-      <p class="education-duration">August 2024 - Present</p>
+      <div class="education-header">
+        <div>
+          <h3 class="institution">Georgia Institute of Technology</h3>
+          <p class="degree">Master of Science in Computer Science</p>
+        </div>
+        <span class="education-duration">August 2024 - Present</span>
+      </div>
       <ul class="education-details">
         <li>GPA: 4.0/4.0</li>
         <li>Specializing in Computing Systems</li>
@@ -135,9 +139,13 @@ title: Anubhav Mathur
       </ul>
     </div>
     <div class="education-item" style="margin-top: 2rem;">
-      <h3 class="institution">National Institute of Technology Kurukshetra</h3>
-      <p class="degree">Bachelor of Technology in Computer Engineering</p>
-      <p class="education-duration">July 2016 - June 2020</p>
+      <div class="education-header">
+        <div>
+          <h3 class="institution">National Institute of Technology Kurukshetra</h3>
+          <p class="degree">Bachelor of Technology in Computer Engineering</p>
+        </div>
+        <span class="education-duration">July 2016 - June 2020</span>
+      </div>
       <ul class="education-details">
         <li>GPA: 9.59/10.00</li>
         <li>Relevant Courses: Software Engineering, Operating Systems, Distributed Systems, Data Structures</li>
