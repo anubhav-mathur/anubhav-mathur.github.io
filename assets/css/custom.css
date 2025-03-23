@@ -247,3 +247,63 @@ section {
   position: absolute;
   left: -1.5rem;
 }
+
+/* Education Section */
+#education h2::after {
+  background: #2dd4bf; /* Emerald teal accent */
+}
+
+.education-item {
+  background: var(--secondary-accent);
+  padding: 2rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  border: 1px solid rgba(45, 212, 191, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+
+.education-item::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 3px;
+  background: linear-gradient(to bottom, #2dd4bf, #0ea5e9);
+}
+
+.institution {
+  font-size: 1.4rem;
+  color: #2dd4bf;
+  margin-bottom: 0.5rem;
+}
+
+.degree {
+  font-size: 1.1rem;
+  color: #a5f3fc;
+  margin-bottom: 0.25rem;
+}
+
+.education-duration {
+  color: #7dd3fc;
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+
+.education-details {
+  list-style: none;
+  padding-left: 1.5rem;
+}
+
+.education-details li {
+  position: relative;
+  margin-bottom: 0.6rem;
+}
+
+.education-details li::before {
+  content: '🎓';
+  position: absolute;
+  left: -1.5rem;
+  filter: hue-rotate(45deg);
+}
