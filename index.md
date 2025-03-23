@@ -128,7 +128,7 @@ title: Anubhav Mathur
       <div class="education-header">
         <div>
           <h3 class="institution">Georgia Institute of Technology</h3>
-          <p class="degree">Master of Science in Computer Science</p>
+          <div class="degree">Master of Science in Computer Science</div>
         </div>
         <span class="education-duration">August 2024 - Present</span>
       </div>
@@ -142,7 +142,7 @@ title: Anubhav Mathur
       <div class="education-header">
         <div>
           <h3 class="institution">National Institute of Technology Kurukshetra</h3>
-          <p class="degree">Bachelor of Technology in Computer Engineering</p>
+          <div class="degree">Bachelor of Technology in Computer Engineering</div>
         </div>
         <span class="education-duration">July 2016 - June 2020</span>
       </div>
