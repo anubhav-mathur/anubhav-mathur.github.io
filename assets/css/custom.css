@@ -5,6 +5,7 @@
   --secondary-accent: #2a2a2a;
   --nav-bg: rgba(10, 10, 10, 0.95);
   --glass-effect: rgba(42, 42, 42, 0.25);
+  --accent-gradient: linear-gradient(45deg, #6c63ff, #8a63ff);
 }
 
 * {
@@ -81,7 +82,6 @@ body {
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 2rem;
-  border: 3px solid var(--primary-accent);
   box-shadow: 0 0 25px rgba(108, 99, 255, 0.3);
   transition: transform 0.3s ease;
 }
@@ -250,7 +250,7 @@ section {
 
 /* Education Section */
 #education h2::after {
-  background: #2dd4bf; /* Emerald teal accent */
+  background: var(--primary-accent);
 }
 
 .education-item {
@@ -258,7 +258,7 @@ section {
   padding: 2rem;
   border-radius: 12px;
   margin-bottom: 2rem;
-  border: 1px solid rgba(45, 212, 191, 0.1);
+  border: 1px solid var(--glass-effect);
   position: relative;
   overflow: hidden;
 }
@@ -270,23 +270,23 @@ section {
   top: 0;
   height: 100%;
   width: 3px;
-  background: linear-gradient(to bottom, #2dd4bf, #0ea5e9);
+  background: var(--accent-gradient);
 }
 
 .institution {
   font-size: 1.4rem;
-  color: #2dd4bf;
+  color: var(--primary-accent);
   margin-bottom: 0.5rem;
 }
 
 .degree {
   font-size: 1.1rem;
-  color: #a5f3fc;
+  color: #d8d1ff;
   margin-bottom: 0.25rem;
 }
 
 .education-duration {
-  color: #7dd3fc;
+  color: #a59fff;
   font-size: 0.95rem;
   margin-bottom: 1rem;
 }
@@ -302,10 +302,11 @@ section {
 }
 
 .education-details li::before {
-  content: '🎓';
+  content: '▹';
   position: absolute;
   left: -1.5rem;
-  filter: hue-rotate(45deg);
+  filter: none; /* Remove emoji */
+  color: var(--primary-accent);
 }
 
 /* Add this to make all section contents consistent */
@@ -325,7 +326,7 @@ section {
 
 /* Projects Section */
 #projects h2::after {
-  background: #ff6b6b; /* Coral accent */
+  background: var(--primary-accent); /* Coral accent */
 }
 
 .project-card {
@@ -333,7 +334,7 @@ section {
   padding: 2rem;
   border-radius: 12px;
   margin-bottom: 2rem;
-  border: 1px solid rgba(255, 107, 107, 0.1);
+  border: 1px solid var(--glass-effect);
   position: relative;
   overflow: hidden;
   transition: transform 0.3s ease;
@@ -350,12 +351,12 @@ section {
   top: 0;
   height: 100%;
   width: 3px;
-  background: linear-gradient(to bottom, #ff6b6b, #ff8e53);
+  background: var(--accent-gradient);
 }
 
 .project-title {
   font-size: 1.4rem;
-  color: #ff6b6b;
+  color: var(--primary-accent);
   margin-bottom: 0.75rem;
 }
 
@@ -372,8 +373,8 @@ section {
 }
 
 .tech-item {
-  background: rgba(255, 107, 107, 0.15);
-  color: #ff8e8e;
+  background: rgba(108, 99, 255, 0.15);
+  color: #a59fff;
   padding: 0.3rem 0.8rem;
   border-radius: 20px;
   font-size: 0.9rem;
@@ -386,7 +387,7 @@ section {
 }
 
 .project-link {
-  color: #ff6b6b;
+  color: var(--primary-accent);
   text-decoration: none;
   display: flex;
   align-items: center;
@@ -395,7 +396,7 @@ section {
 }
 
 .project-link:hover {
-  color: #ff8e53;
+  color: #8a63ff;
 }
 
 .project-link img {
@@ -414,14 +415,14 @@ section {
 
 .project-location {
   font-size: 1.1rem;
-  color: #ff8e8e;
+  color: #b3adff;
   font-weight: 500;
 }
 
 .project-duration {
-  color: #ffa5a5;
+  color: #d8d1ff;
   font-size: 0.95rem;
-  background: rgba(255, 107, 107, 0.15);
+  background: rgba(108, 99, 255, 0.15);
   padding: 0.3rem 0.8rem;
   border-radius: 15px;
 }
