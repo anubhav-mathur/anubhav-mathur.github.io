@@ -22,7 +22,7 @@ title: Anubhav Mathur
       <div class="position">
         <div class="position-header">
           <span class="position-title">Graduate Teaching Assistant, Introduction to Health Informatics</span>
-          <span class="duration">January 2024 - Present</span>
+          <span class="experience-duration">January 2024 - Present</span>
         </div>
         <ul class="bullet-list">
           <li>Assisted course instruction by designing labs, grading assignments/quizzes, and facilitating in-class learning activities.</li>
@@ -35,7 +35,7 @@ title: Anubhav Mathur
       <div class="position">
         <div class="position-header">
           <span class="position-title">Lead Software Engineer</span>
-          <span class="duration">March 2023 - July 2024</span>
+          <span class="experience-duration">March 2023 - July 2024</span>
         </div>
         <ul class="bullet-list">
           <li>Spearheaded the end-to-end development of a Java RESTful API generating personalized spending budgets for 10M retail customers from transaction histories, with results stored in AWS DynamoDB.</li>
@@ -46,7 +46,7 @@ title: Anubhav Mathur
       <div class="position" style="margin-top: 2rem;">
         <div class="position-header">
           <span class="position-title">Software Engineer</span>
-          <span class="duration">September 2021 - March 2023</span>
+          <span class="experience-duration">September 2021 - March 2023</span>
         </div>
         <ul class="bullet-list">
           <li>Developed a Java API to generate spending insights for 50M customers, a feature integrated into multiple frameworks and now a core component of Fidelity’s Spending experience.</li>
@@ -57,7 +57,7 @@ title: Anubhav Mathur
       <div class="position" style="margin-top: 2rem;">
         <div class="position-header">
           <span class="position-title">Associate Software Engineer</span>
-          <span class="duration">August 2020 - September 2021</span>
+          <span class="experience-duration">August 2020 - September 2021</span>
         </div>
         <ul class="bullet-list">
           <li>Devised Python ML models utilizing dimensionality reduction and SARIMA to analyze 3 billion+ customer transactions, detecting anomalies and forecasting spending, resulting in a 70k rise in planning customers.</li>

@@ -223,11 +223,11 @@ section {
   margin-bottom: 0.5rem;
 }
 
-/* .duration {
+.duration {
   color: #888;
   font-size: 1rem;
   margin-left: 1rem;
-} */
+}
 
 .bullet-list {
   list-style: none;
@@ -442,6 +442,14 @@ section {
   border-radius: 15px;
 }
 
+.experience-duration {
+  color: #d8d1ff;
+  font-size: 0.95rem;
+  background: rgba(108, 99, 255, 0.15);
+  padding: 0.3rem 0.8rem;
+  border-radius: 15px;
+}
+
 /* Research Paper Icon */
 .research-paper-icon {
   width: 24px;
@@ -469,3 +477,4 @@ section {
   align-items: baseline;
   margin-bottom: 1rem;
 }
+
