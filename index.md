@@ -61,7 +61,7 @@ title: Anubhav Mathur
   </div>
 </section>
 
-<<section id="projects">
+<section id="projects">
   <div class="section-content">
     <h2>Projects</h2>
     <div class="project-card">
