@@ -61,10 +61,69 @@ title: Anubhav Mathur
   </div>
 </section>
 
-<section id="projects">
+<<section id="projects">
   <div class="section-content">
     <h2>Projects</h2>
-    <!-- Add project cards here -->
+    <div class="project-card">
+      <div class="project-header">
+        <div>
+          <h3 class="project-title">Clinical Text Summarization using Large Language Models</h3>
+          <div class="project-location">Georgia Institute of Technology</div>
+        </div>
+        <span class="project-duration">August 2024 - December 2024</span>
+      </div>
+      <p class="project-description">Crafted an NLP-driven system utilizing LLMs to automate the extraction and summarization of discharge summaries and patient visit data from clinical notes, optimizing clinician time by 90% and increasing note accuracy by 60%.</p>
+      <div class="tech-stack">
+        <span class="tech-item">LLMs</span>
+        <span class="tech-item">HuggingFace</span>
+        <span class="tech-item">Clinical Data Processing</span>
+        <span class="tech-item">Text Summarization</span>
+      </div>
+    </div>
+    <div class="project-card">
+      <div class="project-header">
+        <div>
+          <h3 class="project-title">Predictive Modeling for IMDb Ratings</h3>
+        </div>
+        <span class="project-duration">November 2023 - January 2024</span>
+      </div>
+      <p class="project-description">Innovated a machine learning framework using Random Forest and LGBM regressors to predict IMDb scores based on features like genre, ratings, and budget. Improved accuracy by 25% through PCA and label encoding.</p>
+      <div class="tech-stack">
+        <span class="tech-item">Prinicpal Component Analysis</span>
+        <span class="tech-item">Random Forest</span>
+        <span class="tech-item">One-hot Encoding, Label Encoding</span>
+        <span class="tech-item">Text Summarization</span>
+      </div>
+      <div class="project-links">
+        <a href="#" class="project-link">
+          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Research Paper">
+          Published Research Paper
+        </a>
+      </div>
+    </div>
+    <div class="project-card">
+      <div class="project-header">
+        <div>
+          <h3 class="project-title">Load Forecasting and Energy Scheduling in a Smart Grid</h3>
+          <div class="project-location">National Institute of Technology Kurukshetra</div>
+        </div>
+        <span class="project-duration">August 2019 - June 2020</span>
+      </div>
+      <p class="project-description">Implemented SVR and LSTM models to forecast power demand in a smart grid, achieving 92% prediction accuracy. Applied grid scheduling techniques, akin to CPU scheduling, to efficiently allocate electric power among 500 households and monitor appliance usage, reducing energy wastage by 20%.</p>
+      <div class="tech-stack">
+        <span class="tech-item">Grid Scheduling</span>
+        <span class="tech-item">Support Vector Regression</span>
+        <span class="tech-item">Long-Short Term Memory (LSTMs)</span>
+        <span class="tech-item">Recurrent Neural Networks</span>
+      </div>
+      <div class="project-links">
+        <a href="#" class="project-link">
+          <img src="/assets/img/research-paper.png" class="research-paper-icon" alt="Research Paper">
+          Published Research Paper
+        </a>
+      </div>
+    </div>
+
   </div>
 </section>
 
