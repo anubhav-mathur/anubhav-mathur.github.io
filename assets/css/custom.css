@@ -518,10 +518,10 @@ section {
   color: var(--primary-accent);
 }
 
+/* Mobile Navbar Fix */
 @media (max-width: 768px) {
-  /* Mobile Navbar Fix */
   .centered-nav {
-    padding: 1rem 0;
+    padding: 0.8rem 0;
     height: auto;
     position: fixed;
     top: 0;
@@ -529,22 +529,45 @@ section {
     right: 0;
     backdrop-filter: none;
     background: var(--nav-bg);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
   }
 
   .nav-links {
-    flex-wrap: wrap;
-    gap: 0.8rem;
+    display: inline-flex;
+    flex-wrap: nowrap;
+    gap: 1.2rem;
     padding: 0 1rem;
-    justify-content: space-evenly;
+    justify-content: start;
+    min-width: 100%;
   }
 
   .nav-links a {
     font-size: 0.9rem;
     padding: 0.4rem 0.8rem;
+    flex-shrink: 0;
   }
 
-  /* Ensure first section accounts for navbar height */
+  /* Add scroll padding to all sections */
+  section {
+    scroll-padding-top: 80px;
+  }
+
   #about {
-    padding-top: 8rem;
+    padding-top: 6rem;
+  }
+}
+
+/* Add to existing media query */
+@media (max-width: 480px) {
+  .nav-links {
+    gap: 0.8rem;
+    padding: 0 0.5rem;
+  }
+  
+  .nav-links a {
+    font-size: 0.85rem;
+    padding: 0.3rem 0.6rem;
   }
 }

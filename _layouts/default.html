@@ -8,5 +8,15 @@
         {{ content }}
       </div>
     </main>
+    <script>
+        // Mobile nav height compensation
+        function adjustFirstSectionPadding() {
+          const navHeight = document.querySelector('.centered-nav').offsetHeight;
+          document.getElementById('about').style.paddingTop = navHeight + 40 + 'px';
+        }
+        
+        window.addEventListener('resize', adjustFirstSectionPadding);
+        window.addEventListener('load', adjustFirstSectionPadding);
+        </script>
   </body>
 </html>
