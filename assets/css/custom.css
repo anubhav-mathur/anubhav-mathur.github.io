@@ -281,12 +281,20 @@ section {
 
 .degree {
   font-size: 1.1rem;
+  color: #ffffff;
+  font-weight: 500;
   margin-bottom: 0.25rem;
 }
 
 .education-duration {
+  /* color: #a59fff;
   font-size: 0.95rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1rem; */
+  color: #d8d1ff;
+  font-size: 0.95rem;
+  background: rgba(108, 99, 255, 0.15);
+  padding: 0.3rem 0.8rem;
+  border-radius: 15px;
 }
 
 .education-details {
@@ -359,6 +367,7 @@ section {
 }
 
 .project-description {
+  color: #ffffff;
   margin-bottom: 1rem;
 }
 
@@ -412,6 +421,7 @@ section {
 
 .project-location {
   font-size: 1.1rem;
+  color: #ffffff;
   font-weight: 500;
 }
 
