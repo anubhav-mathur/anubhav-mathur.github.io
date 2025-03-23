@@ -95,8 +95,8 @@ title: Anubhav Mathur
         <span class="tech-item">Text Summarization</span>
       </div>
       <div class="project-links">
-        <a href="#" class="project-link">
-          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Research Paper">
+        <a href="https://www.ijariit.com/manuscript/a-comparison-of-machine-learning-techniques-for-predicting-imdb-score-of-movies/" class="project-link">
+          <img src="/assets/img/research-paper.png" alt="Research Paper">
           Published Research Paper
         </a>
       </div>
@@ -115,12 +115,6 @@ title: Anubhav Mathur
         <span class="tech-item">Support Vector Regression</span>
         <span class="tech-item">Long-Short Term Memory (LSTMs)</span>
         <span class="tech-item">Recurrent Neural Networks</span>
-      </div>
-      <div class="project-links">
-        <a href="#" class="project-link">
-          <img src="/assets/img/research-paper.png" class="research-paper-icon" alt="Research Paper">
-          Published Research Paper
-        </a>
       </div>
     </div>
 
