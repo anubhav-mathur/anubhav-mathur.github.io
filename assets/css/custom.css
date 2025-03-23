@@ -264,7 +264,7 @@ section {
 }
 
 .education-item::before {
-  content: '';
+  content: none;
   position: absolute;
   left: 0;
   top: 0;
@@ -351,7 +351,7 @@ section {
 }
 
 .project-card::before {
-  content: '';
+  content: none;
   position: absolute;
   left: 0;
   top: 0;

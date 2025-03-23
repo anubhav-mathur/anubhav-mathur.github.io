@@ -20,8 +20,10 @@ title: Anubhav Mathur
     <div class="experience-item">
       <h3 class="company-name">Georgia Institute of Technology</h3>
       <div class="position">
-        <span class="position-title">Graduate Teaching Assistant, Introduction to Health Informatics</span>
-        <span class="duration">January 2024 - Present</span>
+        <div class="position-header">
+          <span class="position-title">Graduate Teaching Assistant, Introduction to Health Informatics</span>
+          <span class="duration">January 2024 - Present</span>
+        </div>
         <ul class="bullet-list">
           <li>Assisted course instruction by designing labs, grading assignments/quizzes, and facilitating in-class learning activities.</li>
           <li>Mentored multiple student project groups, provided guidance on project scope, ensured progress through regular check-ins, and evaluated deliverables, similar to a product manager role.</li>
@@ -31,8 +33,10 @@ title: Anubhav Mathur
     <div class="experience-item">
       <h3 class="company-name">Fidelity Investments</h3>
       <div class="position">
-        <span class="position-title">Lead Software Engineer</span>
-        <span class="duration">March 2023 - July 2024</span>
+        <div class="position-header">
+          <span class="position-title">Lead Software Engineer</span>
+          <span class="duration">March 2023 - July 2024</span>
+        </div>
         <ul class="bullet-list">
           <li>Spearheaded the end-to-end development of a Java RESTful API generating personalized spending budgets for 10M retail customers from transaction histories, with results stored in AWS DynamoDB.</li>
           <li>Engineered scalable Spark-Scala big data processes on AWS EMR to aggregate multi-source data to calculate the net worth of 50M customers, improving data processing efficiency by 40%.</li>
@@ -40,8 +44,10 @@ title: Anubhav Mathur
         </ul>
       </div>
       <div class="position" style="margin-top: 2rem;">
-        <span class="position-title">Software Engineer</span>
-        <span class="duration">September 2021 - March 2023</span>
+        <div class="position-header">
+          <span class="position-title">Software Engineer</span>
+          <span class="duration">September 2021 - March 2023</span>
+        </div>
         <ul class="bullet-list">
           <li>Developed a Java API to generate spending insights for 50M customers, a feature integrated into multiple frameworks and now a core component of Fidelity’s Spending experience.</li>
           <li>Orchestrated the migration of an API from a legacy source to an improved one, while live in production and handling high traffic of 300 TPS, developing thorough testing and rollout strategies to minimize disruption.</li>
@@ -49,8 +55,10 @@ title: Anubhav Mathur
         </ul>
       </div>
       <div class="position" style="margin-top: 2rem;">
-        <span class="position-title">Associate Software Engineer</span>
-        <span class="duration">August 2020 - September 2021</span>
+        <div class="position-header">
+          <span class="position-title">Associate Software Engineer</span>
+          <span class="duration">August 2020 - September 2021</span>
+        </div>
         <ul class="bullet-list">
           <li>Devised Python ML models utilizing dimensionality reduction and SARIMA to analyze 3 billion+ customer transactions, detecting anomalies and forecasting spending, resulting in a 70k rise in planning customers.</li>
           <li>Created Splunk & Datadog dashboards and alerts, aiding in production support, traffic monitoring, and measuring application performance, saving 20 hours of human intervention per week.</li>
