@@ -163,6 +163,157 @@ title: Anubhav Mathur
   </div>
 </section>
 
+<section id="skills">
+  <div class="section-content">
+    <h2>Skills</h2>
+    <div class="skills-category">
+      <h3>Languages & Databases</h3>
+      <div class="skills-grid">
+        <div class="skill-item">
+          <i class="fab fa-java"></i>
+          <span>Java</span>
+        </div>
+        <div class="skill-item">
+          <i class="fab fa-python"></i>
+          <span>Python</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-database"></i>
+          <span>Scala</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-database"></i>
+          <span>SQL</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-code"></i>
+          <span>C++</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-terminal"></i>
+          <span>Shell</span>
+        </div>
+        <div class="skill-item">
+          <i class="fab fa-html5"></i>
+          <span>HTML</span>
+        </div>
+        <div class="skill-item">
+          <i class="fab fa-js"></i>
+          <span>JavaScript</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-database"></i>
+          <span>Oracle</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-snowflake"></i>
+          <span>Snowflake</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-database"></i>
+          <span>PostgreSQL</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-project-diagram"></i>
+          <span>Neo4j</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="skills-category">
+      <h3>Frameworks</h3>
+      <div class="skills-grid">
+        <div class="skill-item">
+          <i class="fab fa-git-alt"></i>
+          <span>Git</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-leaf"></i>
+          <span>SpringBoot</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-cloud"></i>
+          <span>REST</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-box"></i>
+          <span>Maven</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-elephant"></i>
+          <span>Hadoop</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-bolt"></i>
+          <span>Spark</span>
+        </div>
+        <div class="skill-item">
+          <i class="fab fa-node"></i>
+          <span>NodeJS</span>
+        </div>
+        <div class="skill-item">
+          <i class="fab fa-python"></i>
+          <span>Django</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-flask"></i>
+          <span>Flask</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-brain"></i>
+          <span>sklearn</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-network-wired"></i>
+          <span>TensorFlow</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="skills-category">
+      <h3>Tools & Platforms</h3>
+      <div class="skills-grid">
+        <div class="skill-item">
+          <i class="fab fa-aws"></i>
+          <span>AWS</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-ship"></i>
+          <span>Kubernetes</span>
+        </div>
+        <div class="skill-item">
+          <i class="fab fa-docker"></i>
+          <span>Docker</span>
+        </div>
+        <div class="skill-item">
+          <i class="fab fa-microsoft"></i>
+          <span>Azure</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-chart-line"></i>
+          <span>SonarQube</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-database"></i>
+          <span>Informatica</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-chart-bar"></i>
+          <span>Splunk</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-tools"></i>
+          <span>Jenkins</span>
+        </div>
+        <div class="skill-item">
+          <i class="fas fa-chart-pie"></i>
+          <span>Datadog</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section id="contact">
   <div class="section-content">
     <h2>Get in Touch</h2>

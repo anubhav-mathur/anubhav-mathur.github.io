@@ -478,3 +478,42 @@ section {
   margin-bottom: 1rem;
 }
 
+/* Skills Section */
+#skills {
+  padding: 8rem 2rem;
+}
+
+.skills-category {
+  background: var(--secondary-accent);
+  padding: 2rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  border: 1px solid var(--glass-effect);
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.skill-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.8rem;
+  border-radius: 8px;
+  background: rgba(108, 99, 255, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.skill-item:hover {
+  transform: translateX(10px);
+}
+
+.skill-item i {
+  width: 30px;
+  text-align: center;
+  color: var(--primary-accent);
+}
