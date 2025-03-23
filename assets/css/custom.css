@@ -196,3 +196,54 @@ section {
     font-size: 1.8rem;
   }
 }
+
+/* Experience Section */
+.experience-item {
+  margin-bottom: 3rem;
+  background: var(--secondary-accent);
+  padding: 2rem;
+  border-radius: 12px;
+  border: 1px solid var(--glass-effect);
+  transition: transform 0.3s ease;
+}
+
+.experience-item:hover {
+  transform: translateY(-5px);
+}
+
+.company-name {
+  font-size: 1.8rem;
+  color: var(--primary-accent);
+  margin-bottom: 0.5rem;
+}
+
+.position-title {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.duration {
+  color: #888;
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+
+.bullet-list {
+  list-style: none;
+  margin-top: 1rem;
+  padding-left: 1.5rem;
+}
+
+.bullet-list li {
+  margin-bottom: 0.8rem;
+  position: relative;
+  line-height: 1.6;
+}
+
+.bullet-list li::before {
+  content: "▹";
+  color: var(--primary-accent);
+  position: absolute;
+  left: -1.5rem;
+}
