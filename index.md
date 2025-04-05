@@ -164,6 +164,28 @@ title: Anubhav Mathur
     <div class="project-card">
       <div class="project-header">
         <div>
+          <h3 class="project-title">Detecting Domain Shadowing through DNS Analytics</h3>
+          <div class="project-location">Georgia Institute of Technology</div>
+        </div>
+        <span class="project-duration">August 2024 - December 2024</span>
+      </div>
+      <p class="project-description">Built a DNS-based detection system to identify domain shadowing attacks by analyzing subdomain activity patterns, IP geolocations, and DNS traffic anomalies. Leveraged passive DNS datasets and clustering techniques to proactively flag suspicious network behavior, enhancing infrastructure security against sophisticated cyber threats.</p>
+      <div class="tech-stack">
+        <span class="tech-item">DNS Security</span>
+        <span class="tech-item">Network Anomaly Detection</span>
+        <span class="tech-item">IP Geolocation</span>
+        <span class="tech-item">Passive DNS</span>
+      </div>
+      <div class="project-links">
+        <a href="https://drive.google.com/file/d/16gPD6SglfsgwlAdD9NT9SNUeMSYWvryJ/view?usp=sharing" class="project-link">
+          <img src="/assets/img/research-paper.png" alt="Paper">
+          Technical Paper (Preprint)
+        </a>
+      </div>
+    </div>
+    <div class="project-card">
+      <div class="project-header">
+        <div>
           <h3 class="project-title">Predictive Modeling for IMDb Ratings</h3>
         </div>
         <span class="project-duration">November 2023 - January 2024</span>
