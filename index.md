@@ -220,6 +220,30 @@ title: Anubhav Mathur
         <span class="tech-item">Recurrent Neural Networks</span>
       </div>
     </div>
+    <div class="project-card">
+      <div class="project-header">
+        <div>
+          <h3 class="project-title">SuspectRecon: AI-Powered Investigation Assistant</h3>
+        </div>
+        <span class="project-duration">January 2024 - March 2024</span>
+      </div>
+      <p class="project-description">Built an AI-driven application using Amazon PartyRock to help law enforcement visualize and analyze suspect data efficiently. Implemented prompt engineering and AI widgets for text and image generation, enabling quick insights from complex datasets.</p>
+      <div class="tech-stack">
+        <span class="tech-item">Amazon PartyRock</span>
+        <span class="tech-item">Generative AI</span>
+        <span class="tech-item">Prompt Engineering</span>
+      </div>
+      <div class="project-links">
+        <a href="https://partyrock.aws/u/anubhavmathur/OWYjx_kRi/SuspectRecon" class="project-link">
+          <img src="/assets/img/research-paper.png" alt="Try Out">
+          Try Out
+        </a>
+        <a href="https://www.youtube.com/watch?v=M-WRxTai5MU" class="project-link">
+          <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube">
+          YouTube
+        </a>
+      </div>
+    </div>
 
   </div>
 </section>
