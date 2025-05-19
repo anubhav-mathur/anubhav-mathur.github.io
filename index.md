@@ -137,6 +137,12 @@ title: Anubhav Mathur
         <span class="tech-item">Redis</span>
         <span class="tech-item">Grafana</span>
       </div>
+      <div class="project-links">
+        <a href="https://github.com/anubhav-mathur/distributed-rate-limiter" class="project-link">
+          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub">
+          GitHub
+        </a>
+      </div>
     </div>
     <div class="project-card">
       <div class="project-header">
@@ -153,12 +159,6 @@ title: Anubhav Mathur
         <span class="tech-item">RPKI Security</span>
         <span class="tech-item">Layer 2/3 Networking</span>
         <span class="tech-item">Traffic Engineering</span>
-      </div>
-      <div class="project-links">
-        <a href="https://github.com/anubhav-mathur/distributed-rate-limiter" class="project-link">
-          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub">
-          GitHub
-        </a>
       </div>
     </div>
     <div class="project-card">
