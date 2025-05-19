@@ -125,23 +125,17 @@ title: Anubhav Mathur
     <div class="project-card">
       <div class="project-header">
         <div>
-          <h3 class="project-title">Graph Database-Powered Soccer Analytics with Neo4j</h3>
-          <div class="project-location">Georgia Institute of Technology</div>
+          <h3 class="project-title">Dsitributed Rate Limiter</h3>
         </div>
-        <span class="project-duration">August 2024 - December 2024</span>
+        <span class="project-duration">April 2025 - May 2025</span>
       </div>
-      <p class="project-description">Developed a scalable analytics platform using a Neo4j graph database, Flask API, and Streamlit frontend to efficiently rank European soccer teams via PageRank. Enhanced query performance through dynamic, in-memory graph projections, supporting fast CRUD operations and real-time analytics across 25,000+ matches.</p>
+      <p class="project-description">Designed and implemented a distributed rate limiter in Go using gRPC and Redis, enforcing global request limits across multiple horizontally scaled instances using a token bucket algorithm coordinated via Lua scripting. Exposed real-time metrics via Prometheus and Grafana and validated system behavior under concurrent multi-node load.</p>
       <div class="tech-stack">
-        <span class="tech-item">Neo4j Graph Database</span>
-        <span class="tech-item">Flask REST API</span>
-        <span class="tech-item">Streamlit</span>
-        <span class="tech-item">Cypher Queries</span>
-      </div>
-      <div class="project-links">
-        <a href="https://github.com/anubhav-mathur/cs6400-neo4j-soccer" class="project-link">
-          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub">
-          GitHub
-        </a>
+        <span class="tech-item">Go</span>
+        <span class="tech-item">gRPC</span>
+        <span class="tech-item">Distributed Systems</span>
+        <span class="tech-item">Redis</span>
+        <span class="tech-item">Grafana</span>
       </div>
     </div>
     <div class="project-card">
@@ -159,6 +153,28 @@ title: Anubhav Mathur
         <span class="tech-item">RPKI Security</span>
         <span class="tech-item">Layer 2/3 Networking</span>
         <span class="tech-item">Traffic Engineering</span>
+      </div>
+    </div>
+    <div class="project-card">
+      <div class="project-header">
+        <div>
+          <h3 class="project-title">Graph Database-Powered Soccer Analytics with Neo4j</h3>
+          <div class="project-location">Georgia Institute of Technology</div>
+        </div>
+        <span class="project-duration">August 2024 - December 2024</span>
+      </div>
+      <p class="project-description">Developed a scalable analytics platform using a Neo4j graph database, Flask API, and Streamlit frontend to efficiently rank European soccer teams via PageRank. Enhanced query performance through dynamic, in-memory graph projections, supporting fast CRUD operations and real-time analytics across 25,000+ matches.</p>
+      <div class="tech-stack">
+        <span class="tech-item">Neo4j Graph Database</span>
+        <span class="tech-item">Flask REST API</span>
+        <span class="tech-item">Streamlit</span>
+        <span class="tech-item">Cypher Queries</span>
+      </div>
+      <div class="project-links">
+        <a href="https://github.com/anubhav-mathur/cs6400-neo4j-soccer" class="project-link">
+          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub">
+          GitHub
+        </a>
       </div>
     </div>
     <div class="project-card">
