@@ -289,7 +289,7 @@ title: Anubhav Mathur
           <span>Scala</span>
         </div>
         <div class="skill-item">
-          <i class="fas fa-go"></i>
+          <i class="fa-brands fa-golang"></i>
           <span>Go</span>
         </div>
         <div class="skill-item">
@@ -330,7 +330,6 @@ title: Anubhav Mathur
         </div>
       </div>
     </div>
-
     <div class="skills-category">
       <h3>Frameworks</h3>
       <div class="skills-grid">
@@ -351,7 +350,7 @@ title: Anubhav Mathur
           <span>Maven</span>
         </div>
         <div class="skill-item">
-          <i class="fas fa-elephant"></i>
+          <i class="fa-solid fa-hexagon-nodes"></i>
           <span>Hadoop</span>
         </div>
         <div class="skill-item">
