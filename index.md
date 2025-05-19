@@ -289,6 +289,10 @@ title: Anubhav Mathur
           <span>Scala</span>
         </div>
         <div class="skill-item">
+          <i class="fas fa-go"></i>
+          <span>Go</span>
+        </div>
+        <div class="skill-item">
           <i class="fas fa-database"></i>
           <span>SQL</span>
         </div>
