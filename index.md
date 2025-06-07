@@ -18,11 +18,24 @@ title: Anubhav Mathur
   <div class="section-content">
     <h2>Experience</h2>
     <div class="experience-item">
+      <h3 class="company-name">Volvo Group</h3>
+      <div class="position">
+        <div class="position-header">
+          <span class="position-title">Software Engineer Intern</span>
+          <span class="experience-duration">May 2025 - Present</span>
+        </div>
+        <ul class="bullet-list">
+          <li>Optimized data pipelines processing 100M+ records using Python, PySpark, SQL, and Databricks on Azure; developed
+a full-stack logistics tracking platform with React and Node.js, improving real-time global parts delivery visibility.</li>
+        </ul>
+      </div>
+    </div><br>
+    <div class="experience-item">
       <h3 class="company-name">Georgia Institute of Technology</h3>
       <div class="position">
         <div class="position-header">
           <span class="position-title">Graduate Teaching Assistant, Introduction to Health Informatics</span>
-          <span class="experience-duration">January 2024 - Present</span>
+          <span class="experience-duration">January 2025 - May 2025</span>
         </div>
         <ul class="bullet-list">
           <li>Assisted course instruction by designing labs, grading assignments/quizzes, and facilitating in-class learning activities.</li>
