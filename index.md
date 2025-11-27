@@ -9,7 +9,7 @@ title: Anubhav Mathur
   <div class="about-content">
     <img src="/assets/img/PXL_20241219_193316216~2.jpg" alt="Anubhav Mathur">
     <h1>Anubhav Mathur</h1>
-    <p>I am pursuing an MS in Computer Science at Georgia Tech with a focus on data and computing systems. I am passionate about software engineering, data analytics, and cloud-based solutions. I specialize in building scalable, data-driven applications and bring expertise in backend engineering, cloud infrastructure, big data, DevOps, and AI/ML to develop reliable, high-performance systems.</p><br>
+    <p>I am pursuing an MS in Computer Science at Georgia Tech with a focus on distributed systems and scalable computing. I am passionate about software engineering, backend development, and cloud-native architectures. I specialize in building reliable, high-performance services and bring experience in systems design, backend engineering, cloud infrastructure, DevOps, and AI/ML to develop robust, production-ready applications.</p><br>
     <a href="https://drive.google.com/file/d/1PMkkQTyEc5LT5mvJfxHdsXmyQPc_V9xI/view" target="_blank" class="resume-link">View Resume</a>
   </div>
 </section>
