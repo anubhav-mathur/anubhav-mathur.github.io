@@ -19,19 +19,23 @@ title: Anubhav Mathur
     <h2>Experience</h2>
     <div class="experience-item">
       <h3 class="company-name">Volvo Group</h3>
+      <div class="company-location">Greensboro, NC</div>
       <div class="position">
         <div class="position-header">
           <span class="position-title">Software Engineer Intern</span>
-          <span class="experience-duration">May 2025 - Present</span>
+          <span class="experience-duration">May 2025 - Dec 2025</span>
         </div>
         <ul class="bullet-list">
-          <li>Optimized data pipelines processing 100M+ records using Python, PySpark, SQL, and Databricks on Azure; developed
-a full-stack logistics tracking platform with React and Node.js, improving real-time global parts delivery visibility.</li>
+          <li>Developed a full-stack shift bidding and assignment system to replace a slow, error-prone manual process used by HR. Built React pages for bid collection and review, Node.js APIs for workflow orchestration, and Azure Functions for authentication and scheduled processing.</li>
+          <li>Automated shift assignment for warehouse workers using greedy algorithms in Python 
+          and SQL, reducing 200+ hours of manual effort to under 10 seconds.</li>
+          <li>Optimized data pipelines processing 100M+ records using Python, PySpark, SQL, and Databricks on Azure; developed a full-stack workforce hierarchy management platform using React and Node.js.</li>
         </ul>
       </div>
     </div><br>
     <div class="experience-item">
       <h3 class="company-name">Georgia Institute of Technology</h3>
+      <div class="company-location">Atlanta, GA</div>
       <div class="position">
         <div class="position-header">
           <span class="position-title">Graduate Teaching Assistant, Introduction to Health Informatics</span>
@@ -45,6 +49,7 @@ a full-stack logistics tracking platform with React and Node.js, improving real-
     </div><br>
     <div class="experience-item">
       <h3 class="company-name">Fidelity Investments</h3>
+      <div class="company-location">Bangalore, IN</div>
       <div class="position">
         <div class="position-header">
           <span class="position-title">Lead Software Engineer</span>

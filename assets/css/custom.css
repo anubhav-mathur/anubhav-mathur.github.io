@@ -217,6 +217,14 @@ section {
   margin-bottom: 0.5rem;
 }
 
+.company-location {
+  font-size: 1rem;
+  color: #d8d1ff;
+  margin-bottom: 1.2rem;
+  font-weight: 500;
+  opacity: 0.9;
+}
+
 .position-title {
   font-size: 1.3rem;
   font-weight: 600;
