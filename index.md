@@ -446,7 +446,7 @@ title: Anubhav Mathur
   <div class="section-content">
     <h2>Get in Touch</h2>
     <div class="social-links">
-      <a href="https://linkedin.com/in/anubhav-m-44892210b" target="_blank">
+      <a href="https://www.linkedin.com/in/anubhavmathur24/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
       </a>
       <a href="https://github.com/anubhav-mathur" target="_blank">
